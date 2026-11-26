@@ -1,0 +1,31 @@
+OpenVoice CRM — Sample Enterprise SaaS Knowledge Base
+
+PRODUCT OVERVIEW
+OpenVoice CRM is a cloud-based customer relationship management platform for sales and customer success teams. It helps organizations manage contacts, accounts, opportunities, tasks, and customer conversations in one workspace. The service is available through the web application and supported mobile browsers.
+
+PLANS AND BILLING
+A workspace owner can review the active plan, billing interval, invoices, and payment method from Workspace Settings → Billing. Plan pricing and feature limits can change; the current in-product billing page is the source of truth. Only workspace owners and billing administrators can update payment details or cancel a subscription. Subscription changes take effect as described in the billing confirmation screen.
+
+TRIALS AND SUBSCRIPTIONS
+New workspaces may be eligible for a time-limited trial. Trial eligibility, duration, and included features are shown during signup. At the end of a trial, an owner can select a paid plan or follow the in-product instructions to close the workspace. The support team cannot promise an extension or a particular discount.
+
+USERS AND PERMISSIONS
+Workspace owners can invite teammates from Settings → Team. Available roles include Owner, Admin, Manager, and Member. Role permissions are displayed in the team-management screen. Only Owners and Admins can change workspace-wide security settings; only Owners can transfer ownership or close a workspace. Ask an administrator to review access if a user cannot see a record or action.
+
+CONTACTS AND IMPORTS
+Contacts can be created individually or imported from a UTF-8 CSV file. Before importing, download the latest CSV template from the import screen and map each source column to a supported field. Email address is used to identify likely duplicate contacts. Review the import preview and validation errors before confirming; a completed import can create or update records according to the selected import mode. Do not upload payment-card data, passwords, or other secrets.
+
+SALES PIPELINE
+Opportunities move through the stages configured by a workspace administrator. Users with appropriate permissions can create opportunities, assign an owner, set an expected close date, and record notes. Pipeline reports reflect the date range and filters selected in the report. Forecast values are estimates based on workspace data and are not guarantees of future revenue.
+
+DATA EXPORT AND DELETION
+Users with export permission can download records from the relevant list view. Workspace owners can request workspace closure and data-deletion information through the support portal. Retention and deletion timelines are confirmed by the support team based on the applicable plan and legal requirements. Agents must not claim a deletion has completed unless the account workflow confirms it.
+
+SECURITY AND PRIVACY
+OpenVoice CRM supports role-based access controls and encrypted network connections. Workspace administrators should enable multi-factor authentication where available and promptly remove access for former teammates. Never ask a customer to share a password, one-time passcode, full payment-card number, or private authentication token in a support conversation.
+
+SUPPORT
+Customers can contact the support team from Help → Contact Support inside the application. Include the workspace name, a concise description, and relevant non-sensitive record identifiers. Do not include passwords, access tokens, or payment-card details. Support availability and response-time targets are shown in the support portal.
+
+SALES AND ENTERPRISE INQUIRIES
+For enterprise plan details, procurement questions, or a product demonstration, submit the sales inquiry form from the OpenVoice CRM website. Include organization size, desired capabilities, and a business contact address. A sales representative will follow up using the contact information provided.

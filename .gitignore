@@ -1,0 +1,12 @@
+# Secrets and local environment
+.env
+.venv/
+venv/
+
+# Generated vector index / model cache
+data/chroma_db/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
